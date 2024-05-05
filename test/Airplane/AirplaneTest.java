@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  * 
- * @author arman
+ * @author Armando Diaz
  */
 public class AirplaneTest {
 
